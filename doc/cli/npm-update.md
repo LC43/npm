@@ -108,7 +108,7 @@ dependencies: {
 ```
 
 Then `npm update` will install `dep1@0.4.1`, because that is the highest-sorting
-version that satisfies `^0.4.0` (`>= 0.4.0 <0.5.0`)
+version that satisfies `^0.4.0` (`>= 0.4.0 <1.0.0`)
 
 ### Recording Updates with `--save`
 
